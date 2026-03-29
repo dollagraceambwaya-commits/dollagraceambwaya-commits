@@ -15,8 +15,8 @@
 - I’ll be adding my first projects here as I learn
 
 ## How to Reach Me
-- Email: dollagraceambwaya@gmail.com
-- LinkedIn: www.linkedin.com/in/ dolla-grace-b4021a1b4
+- Email: [dollagraceambwaya@gmail.com](mailto:dollagraceambwaya@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/dolla-grace-b4021a1b4)
   
 
 
