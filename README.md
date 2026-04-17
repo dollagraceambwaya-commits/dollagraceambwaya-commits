@@ -1,6 +1,6 @@
-## Hi there 👋
+# Hi there 👋
 
-# Hi, I'm Dolla Grace
+## Hi, I'm Dolla Grace
 
 ## About Me
 - I'm currently learning Programming at International Youth Fellowship.
@@ -14,9 +14,13 @@
 ## Current Projects
 - I’ll be adding my first projects here as I learn
 
+## Currently Learning
+- Advanced JavaScript (async workflows, DOM events)  
+- Repo organization & README documentation
+-  
 ## How to Reach Me
 - Email: [dollagraceambwaya@gmail.com](mailto:dollagraceambwaya@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/dolla-grace-b4021a1b4)
+- [LinkedIn](https://www.linkedin.com/in/dolla-grace)
   
 
 
