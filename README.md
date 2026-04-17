@@ -17,7 +17,7 @@
 ## Currently Learning
 - Advanced JavaScript (async workflows, DOM events)  
 - Repo organization & README documentation
--  
+- React fundamentals (components, props, state, hooks)
 ## How to Reach Me
 - Email: [dollagraceambwaya@gmail.com](mailto:dollagraceambwaya@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/dolla-grace)
